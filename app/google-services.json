@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090036441231",
+    "firebase_url": "https://college-campus-quora-default-rtdb.firebaseio.com",
+    "project_id": "college-campus-quora",
+    "storage_bucket": "college-campus-quora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090036441231:android:d1983da860ff1d2c9c10fa",
+        "android_client_info": {
+          "package_name": "com.example.collegecampusquora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090036441231-mi72kjh3s3hqd8d099sh6mf0hqt82ag6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegecampusquora",
+            "certificate_hash": "79471bf31b2b1812c74cde74067273d2b3a2d3eb"
+          }
+        },
+        {
+          "client_id": "1090036441231-mpt69gl6afqqaj5eh35kv88ofb5haqdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCu21tEnUv4BLLfM14pugLAae8_1aPto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090036441231-2f0v76imeg7mgk64noj6sqbgoh68obn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
